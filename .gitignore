@@ -1,0 +1,5 @@
+output/
+mnist/*
+*.DS_Store
+
+
